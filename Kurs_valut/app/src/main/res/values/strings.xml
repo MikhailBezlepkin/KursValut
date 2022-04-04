@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kurs_valut</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash">Splash</string>
+    <string name="name">Название</string>
+    <string name="buy">Покупка</string>
+    <string name="Sale">Продажа</string>
+    <string name="USD">USD</string>
+</resources>
