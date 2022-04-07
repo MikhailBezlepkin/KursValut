@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Iriska21/AndroidStudioProjects/Kurs_valut/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.1775" />
+        <entry key="..\:/Users/Iriska21/AndroidStudioProjects/Kurs_valut/app/src/main/res/drawable/ic_baseline_money_nal.xml" value="0.1775" />
+        <entry key="..\:/Users/Iriska21/AndroidStudioProjects/Kurs_valut/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Iriska21/AndroidStudioProjects/Kurs_valut/app/src/main/res/layout/fragment_root.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/Iriska21/AndroidStudioProjects/Kurs_valut/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Iriska21/AndroidStudioProjects/Kurs_valut/app/src/main/res/layout/fragment_splash.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Iriska21/AndroidStudioProjects/Kurs_valut/app/src/main/res/layout/fragment_start.xml" value="0.36666666666666664" />

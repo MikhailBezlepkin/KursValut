@@ -7,4 +7,6 @@
     <string name="buy">Покупка</string>
     <string name="Sale">Продажа</string>
     <string name="USD">USD</string>
+    <string name="start">Start</string>
+    <string name="second">Second</string>
 </resources>
